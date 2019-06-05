@@ -1,0 +1,6 @@
+
+qsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–”´õ8³Ê–²²-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ª€˜²²-
+Gsquid:S1068")Remove this unused "room1" private field.(ŒÃ€Ó8™ªž²²-
+Lsquid:S1068")Remove this unused "room2" private field.(ÞÕˆèùÿÿÿÿ8§Àž²²-
+Hsquid:S1068	"*Remove this unused "isOpen" private field.(ä”±Õ8êÁÌì±-
