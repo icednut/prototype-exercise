@@ -12,6 +12,5 @@ repositories {
 }
 
 dependencies {
-    compile "org.springframework.boot:spring-boot:2.1.5.RELEASE"
     testCompile "org.junit.jupiter:junit-jupiter:5.4.2"
 }
